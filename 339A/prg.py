@@ -1,0 +1,1 @@
+print('+'.join(sorted([str(c) for c in input().split('+')])))
