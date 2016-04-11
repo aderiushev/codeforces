@@ -1,0 +1,1 @@
+print('YES') if any([True for i in input() if i in ['Q', 'H', '9']]) else print('NO')
